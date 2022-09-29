@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/62de0940ea769d075754e06d
+Content-Type: application/json
+
+{
+    "title": "ASOIAF: Book 7",
+    "author": "GRRM",
+    "url": "www.nevergonnahappen.com",
+    "likes": 34319
+}
